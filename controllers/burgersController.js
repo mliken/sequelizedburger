@@ -5,7 +5,8 @@ var router = express.Router();
 
 // get route -> index
 router.get("/", function(req, res) {
-  res.redirect("/burgers");
+  // res.redirect("/burgers");
+  res.send('hello');
 });
 
 router.get("/burgers", function(req, res) {
