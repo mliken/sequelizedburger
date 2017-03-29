@@ -5,7 +5,7 @@
 In this assignment, I've added Sequelize to the `Burger` app I made previously. 
 
 
-#### Tier 1: Sequelized! (Basic to Moderate)
+#### Tier 1: Sequelized! 
 
 * Removed all references to my vanilla MySQL queries and replaced them with Sequelize queries.
 
