@@ -17,7 +17,7 @@ In this assignment, I've added Sequelize to the `Burger` app I made previously.
 	* Remove old ORM file, as well as any references to it in `burgers_controller.js`. Replace those references with Sequelize's ORM methods.
 
 	
-	![1-Sequelized](Images/1-Sequelized.jpg)
+	
 
 
 #### Tier 2: Customer Associations 
@@ -27,7 +27,7 @@ In this assignment, I've added Sequelize to the `Burger` app I made previously.
 * Customer can add multiple burgers
 
 
-	![3-Associated](Images/3-Associated.jpg)
+	
 
 * If you do go select this tier, you must edit the handlebars files and CSS stylesheets to implement some sort of additional feature to the site. We don't want you to just connect two models and submit your project. Make your site do something relevant to this association.
 
